@@ -1,0 +1,4 @@
+export default  {
+    'email':"natashamahawar@yopmail.com" ,
+    "pwd":"1234"
+} 
