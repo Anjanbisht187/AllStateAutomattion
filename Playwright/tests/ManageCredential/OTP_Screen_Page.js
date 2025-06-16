@@ -17,7 +17,7 @@ export class OtpPage {
         const fields = this.otpInputs;
         for (let i = 0; i < otp.length; i++) {
             await fields.nth(i).fill(otp[i]);
-        }
+        }//testing is done
     }
 
     /**
